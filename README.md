@@ -1,7 +1,3 @@
-Here's a revised and strong version of your GitHub repository template with added clarity and emphasis on enforcing **copyright protection** and **terms of use**. This template is aimed at contesting any unauthorized use of your content, making it clear that any attempt to misuse or redistribute your code without proper authorization will be met with legal consequences.
-
----
-
 # Interactive-Erosion
 
 ## Overview
